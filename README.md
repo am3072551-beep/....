@@ -235,8 +235,8 @@ body{
 
   <div class="card">💬 Chat</div>
   <div class="chat-box">
-    <a class="chat-btn" href="https://wa.me/916392908732" target="_blank">💚 Chat</a>
-    <a class="chat-btn" href="https://wa.me/917800049619" target="_blank">💚 Chat</a>
+    <a class="chat-btn" href="https://wa.me/917007576493" target="_blank">💚 Chat</a>
+    <a class="chat-btn" href="https://wa.me/917007576493" target="_blank">💚 Chat</a>
   </div>
 </div>
 
